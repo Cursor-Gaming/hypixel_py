@@ -18,7 +18,7 @@ Make sure your project complies with [Hypixel's API policy](https://developers.h
 Start with:
         ```python
         import hypixel_py
-        hipixel_py.set_api_key(YOUR_API_KEY_GOES_HERE_012345678900)
+        hypixel_py.set_api_key(YOUR_API_KEY_GOES_HERE_012345678900)
         ```
 Fetch player information:
         ```python

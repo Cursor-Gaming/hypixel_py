@@ -1,7 +1,7 @@
 from ..request import Requests
 
 class OtherAPI:
-    """### Class of all other endpoints of the Hypixel API"""
+    """### All other endpoints of the Hypixel API"""
     BASE_URL = "https://api.hypixel.net/v2"
     requests = Requests
 

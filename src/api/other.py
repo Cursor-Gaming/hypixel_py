@@ -2,7 +2,7 @@ from ..request import Requests
 from .otherApi import OtherAPI
 
 class Other:
-
+    """### All other endpoints of the Hypixel API"""
     requests = Requests
     other_api = OtherAPI()
 
