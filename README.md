@@ -14,7 +14,7 @@ Install by cloning the repository:
 ```
 git clone https://github.com/Cursor-Gaming/hypixel_py
 ```
-Pip support soon?
+This project currently does not support pip, but it will in the future.
 
 ## Usage:
 
