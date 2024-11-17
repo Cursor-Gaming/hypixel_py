@@ -1,6 +1,6 @@
 # Hypixel API for Python.
 
-Unofficial module written in Python for Python is intended to be used to interact with [Hypixel's public API](https://api.hypixel.net") in an easier way.
+Unofficial module written in Python for Python, intended to be used to interact with [Hypixel's public API](https://api.hypixel.net") in an easier way.
 
 When using the module, you will still recieve the information directly from the Hypixel's API, and the data will be formated in the way Hypixel formated their responses.
 
