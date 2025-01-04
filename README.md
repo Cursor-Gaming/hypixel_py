@@ -18,14 +18,14 @@ This project currently does not support pip, but it will in the future.
 
 ## Usage:
 
-Start with:
+### Start with:
 
 ```python
 import hypixel_py
 hypixel_py.set_api_key(YOUR_API_KEY_GOES_HERE_012345678900)
 ```
 
-Fetch player information:
+### Fetch player information:
 
 ```python
 player_data = hypixel_py.Player("...")
