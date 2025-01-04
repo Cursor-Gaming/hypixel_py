@@ -46,15 +46,15 @@ and what they give as an output.
 
 from . import api, errors
 from .request import Requests
-from .api.guild import Guild
+from .classes.guild import Guild
 from .api.guildApi import GuildAPI
-from .api.housing import Housing
+from .classes.housing import Housing
 from .api.housingApi import HousingAPI
-from .api.player import Player
+from .classes.player import Player
 from .api.playerApi import PlayerAPI
-from .api.resources import Resources
+from .classes.resources import Resources
 from .api.resourcesApi import ResourcesAPI
-from .api.skyblock import Skyblock
+from .classes.skyblock import Skyblock
 from .api.skyblockApi import SkyblockAPI
 
 __name__ = "hypixel_py"

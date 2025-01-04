@@ -1,10 +1,10 @@
-from .guild import Guild
+from ..classes.guild import Guild
 from .guildApi import GuildAPI
-from .player import Player
+from ..classes.player import Player
 from .playerApi import PlayerAPI
-from .resources import Resources
+from ..classes.resources import Resources
 from .resourcesApi import ResourcesAPI
-from .skyblock import Skyblock
+from ..classes.skyblock import Skyblock
 from .skyblockApi import SkyblockAPI
 
 api_key = [""]
