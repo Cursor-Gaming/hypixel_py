@@ -12,7 +12,7 @@ Make sure your project complies with [Hypixel's API policy](https://developers.h
 
 Install by cloning the repository:
 ```
-git clone https://github.com/Cursor-Gaming/hypixel_py
+git clone https://github.com/Cursor-Gaming/hypixel_py.git
 ```
 This project currently does not support pip, but it will in the future.
 
